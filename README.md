@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://github.com/ellisonleao">
-  <img align="center" width="49%" src="./github-habits.svg" />
+  <img align="center" width="49%" src="./rss.svg" />
 </a>
 <a href="https://github.com/ellisonleao">
     <img align="center" width="49%" src="./achievements.svg" />

@@ -1,8 +1,7 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit (optional)
+  # Schedule updates (each day at noon)
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
   push: {branches: ["main"]}
 
@@ -75,24 +74,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-  habits:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github-habits.svg
-          token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          config_timezone: America/Sao_Paulo # Set timezone
-          user: ellisonleao
-          base: ""
-          template: classic
-          plugin_habits: yes
-          plugin_habits_from: 200       # Use 200 events to compute habits
-          plugin_habits_days: 14        # Keep only events from last 14 days
-          plugin_habits_charts: yes     # Display charts section
-          plugin_habits_trim: yes       # Trim unused hours on daily chart
-
   issue_pr_lang:
     runs-on: ubuntu-latest
     steps:
@@ -121,3 +102,14 @@ jobs:
           template: classic
           base: repositories
           config_timezone: America/Sao_Paulo
+
+  rss:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: rss.svg
+          base: ""
+          plugin_rss: yes
+          plugin_rss_source: https://dev.to/feed/ellisonleao/
+          plugin_rss_limit: 4
