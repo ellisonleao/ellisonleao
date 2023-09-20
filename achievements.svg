@@ -60,7 +60,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.84873374401094 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.93360711841206 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -176,7 +176,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.503666666666664 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.565666666666665 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -199,12 +199,12 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 2.45k out of 52m repositories</span>
+                                    <span class="gh">ranked 2.45k out of 65.3m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">12081</div>
+                                        <div class="value">12087</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 12081 stars</div>
+                                <div class="text">Maintaining a repository with 12087 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -248,7 +248,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     inspirer
-                                    <span class="gh">ranked 8.62k out of 52m repositories</span>
+                                    <span class="gh">ranked 8.62k out of 65.3m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1050</div>
                                     </div>
@@ -339,7 +339,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     influencer
-                                    <span class="gh">ranked 6.04k out of 119m users</span>
+                                    <span class="gh">ranked 6.05k out of 120m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">967</div>
                                     </div>
@@ -382,7 +382,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 196k out of 119m users</span>
+                                    <span class="gh">ranked 196k out of 120m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">92</div>
                                     </div>
