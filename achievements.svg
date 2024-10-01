@@ -60,7 +60,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="125.78234086242301 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="125.86721423682407 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -176,7 +176,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="35.836 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="35.91866666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -199,12 +199,12 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 2.52k out of 221m repositories</span>
+                                    <span class="gh">ranked 2.52k out of 223m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">13468</div>
+                                        <div class="value">13476</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 13468 stars</div>
+                                <div class="text">Maintaining a repository with 13476 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -217,7 +217,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.43 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.636666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -254,12 +254,12 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 6.02k out of 145m users</span>
+                                    <span class="gh">ranked 6.01k out of 145m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">1159</div>
+                                        <div class="value">1161</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 1159 users</div>
+                                <div class="text">Followed by 1161 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -272,7 +272,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.2 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.303333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -303,12 +303,12 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     inspirer
-                                    <span class="gh">ranked 9.41k out of 221m repositories</span>
+                                    <span class="gh">ranked 9.41k out of 223m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">1060</div>
+                                        <div class="value">1061</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 1060 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 1061 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -346,7 +346,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 188k out of 145m users</span>
+                                    <span class="gh">ranked 189k out of 145m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">102</div>
                                     </div>
@@ -400,7 +400,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.23 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.020000000000001 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -428,10 +428,10 @@
                                     <span class="prefix">Super</span>
                                     reviewer
                                     <div class="value-wrapper">
-                                        <div class="value">533</div>
+                                        <div class="value">542</div>
                                     </div>
                                 </div>
-                                <div class="text">Reviewed 533 pull requests</div>
+                                <div class="text">Reviewed 542 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
